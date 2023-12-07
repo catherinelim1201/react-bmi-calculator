@@ -1,0 +1,19 @@
+.Calculator {
+  color: #3D246C;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 25px;
+}
+
+.Calculator input {
+  border-radius: 5px;
+  padding: 8px;
+  margin-right: 10px;
+}
+
+.Calculator input[type="submit"]{
+  color: #35155D;
+  background-color: #9F91CC;
+  font-size: 15px;
+  padding: 8px
+}

@@ -1,0 +1,14 @@
+.App {
+  background: linear-gradient(to top, #ffffff,rgb(204, 141, 150),  rgb(235, 195, 202), rgb(184, 98, 184), rgb(151, 31, 181));
+  height: 100vh;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.App h1 {
+  color: rgb(77, 2, 77);
+  padding: 30px;
+  text-align: center;
+  text-shadow: 2px 2px 5px #e965d3;
+  font-size: 50px;
+}
